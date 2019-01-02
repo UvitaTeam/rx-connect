@@ -1,6 +1,6 @@
 {
-  "name": "rx-connect",
-  "version": "0.0.0",
+  "name": "@vivy/rx-connect",
+  "version": "5.5.12",
   "description": "Connect React components to Redux store with RxJS-based HOC",
   "main": "./lib/index.js",
   "scripts": {
@@ -65,7 +65,7 @@
     "redux": "^3.5.2",
     "rimraf": "^2.5.4",
     "rx": "^4.1.0",
-    "rxjs": "^5.1.0",
+    "rxjs": "^5.5.12",
     "webpack": "^2.2.1",
     "yargs": "^6.6.0"
   },
