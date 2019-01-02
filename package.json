@@ -67,7 +67,6 @@
     "redux": "^3.5.2",
     "rimraf": "^2.5.4",
     "rx": "^4.1.0",
-    "rxjs": "^5.5.12",
     "webpack": "^2.2.1",
     "yargs": "^6.6.0"
   },
@@ -79,6 +78,7 @@
     "lodash.isarray": "^4.0.0",
     "lodash.isobject": "^3.0.2",
     "lodash.isplainobject": "^4.0.6",
+    "rxjs": "^6.3.3",
     "symbol-observable": "^1.0.4"
   }
 }
