@@ -1,6 +1,7 @@
 {
   "name": "@vivy/rx-connect",
-  "version": "5.5.12",
+  "version": "5.5.13",
+  "private": false,
   "description": "Connect React components to Redux store with RxJS-based HOC",
   "main": "./lib/index.js",
   "scripts": {
@@ -11,6 +12,7 @@
     "build:umd:min": "cross-env NODE_ENV=production webpack src/index.js dist/rx-connect.min.js",
     "build": "npm run build:lib && npm run build:umd && npm run build:umd:min",
     "test": "npm run lint && jest",
+    "test:watch": "jest --watch",
     "prepublish": "npm run clean && npm run test && npm run build",
     "examples:build:blog": "cd examples/blog/ && cross-env NODE_ENV=production npm run build",
     "examples:build:wikistream": "cd examples/wikistream/ && cross-env NODE_ENV=production npm run build",

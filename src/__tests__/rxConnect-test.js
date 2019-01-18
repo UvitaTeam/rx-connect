@@ -2,12 +2,10 @@ import React from "react";
 import renderer from "react-test-renderer";
 
 import { rxConnect } from "../";
-import rx4Adapter from "../rx4Adapter";
 import { getAdapter } from "../rxConnect";
 
 const suites = {
     "RxJS 5": () => {},
-    "RxJS 4": () => rxConnect.adapter = rx4Adapter,
 }
 
 Object.entries(suites).forEach(([ name, initializer ]) => describe(name, () => {
