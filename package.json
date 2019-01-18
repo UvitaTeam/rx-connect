@@ -1,6 +1,6 @@
 {
   "name": "@vivy/rx-connect",
-  "version": "5.5.13",
+  "version": "0.0.1",
   "private": false,
   "description": "Connect React components to Redux store with RxJS-based HOC",
   "main": "./lib/index.js",
