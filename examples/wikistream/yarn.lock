@@ -2070,8 +2070,8 @@ jodid25519@^1.0.0:
     jsbn "~0.1.0"
 
 jquery@x.*:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.1.1.tgz#347c1c21c7e004115e0a4da32cece041fad3c8a3"
+  version "3.4.1"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.4.1.tgz#714f1f8d9dde4bdfa55764ba37ef214630d80ef2"
 
 js-base64@^2.1.9:
   version "2.1.9"
@@ -2162,10 +2162,6 @@ lodash.camelcase@^4.3.0:
 lodash.indexof@^4.0.5:
   version "4.0.5"
   resolved "https://registry.yarnpkg.com/lodash.indexof/-/lodash.indexof-4.0.5.tgz#53714adc2cddd6ed87638f893aa9b6c24e31ef3c"
-
-lodash.isplainobject@^4.0.6:
-  version "4.0.6"
-  resolved "https://registry.yarnpkg.com/lodash.isplainobject/-/lodash.isplainobject-4.0.6.tgz#7c526a52d89b45c45cc690b88163be0497f550cb"
 
 lodash.memoize@^4.1.0:
   version "4.1.2"
@@ -3103,12 +3099,6 @@ rimraf@2, rimraf@~2.5.1, rimraf@~2.5.4:
 ripemd160@0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/ripemd160/-/ripemd160-0.2.0.tgz#2bf198bde167cacfa51c0a928e84b68bbe171fce"
-
-rx-connect@^0.1.5:
-  version "0.1.7"
-  resolved "https://registry.yarnpkg.com/rx-connect/-/rx-connect-0.1.7.tgz#6045e15702418bbe2c2db3bd48d479ec0c0ae484"
-  dependencies:
-    lodash.isplainobject "^4.0.6"
 
 rxjs@~5.0.0:
   version "5.0.3"
