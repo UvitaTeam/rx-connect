@@ -62,7 +62,7 @@
     "react": "^15.4.2",
     "react-redux": "^5.0.2",
     "react-test-renderer": "^15.4.2",
-    "redux": "^3.5.2",
+    "redux": "^4.0.4",
     "rimraf": "^2.5.4",
     "rx": "^4.1.0",
     "rxjs": "^5.5.12",
